@@ -1,0 +1,14 @@
+-> This is a solution to the Convolutional Neural Network exercise in the Stanford UFLDL Tutorial(http://ufldl.stanford.edu/wiki/index.php/Exercise:Convolution_and_Pooling)
+-> The code has been written in Python using Scipy, Numpy and Matplotlib
+-> The code is bound by The MIT License (MIT)
+
+Running the code:
+
+-> Download the data files: 'stlTrainSubset.mat', 'stlTestSubset.mat', 'opt_param.npy', 'zca_white.npy' and 'mean_patch.npy' and the code file 'convolutionalNeuralNetwork.py'
+-> Put them in the same folder, and run the program by typing in 'python convolutionalNeuralNetwork.py' in the command line
+-> You should first get an image of the learned Sparse Autoencoder Linear weights as in 'output.png', the code for which is available at the following link : https://github.com/siddharth950/Sparse-Autoencoder-Linear
+-> The data files 'opt_param.npy', 'zca_white.npy' and 'mean_patch.npy' were also obtained using the same code
+-> This code takes about 8 hours to execute on an i3 processor
+
+Code written by: Siddharth Agrawal
+Email ID: siddharth.950@gmail.com
