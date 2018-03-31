@@ -9,6 +9,3 @@ Running the code:
 -> You should first get an image of the learned Sparse Autoencoder Linear weights as in 'output.png', the code for which is available at the following link : https://github.com/siddharth950/Sparse-Autoencoder-Linear
 -> The data files 'opt_param.npy', 'zca_white.npy' and 'mean_patch.npy' were also obtained using the same code
 -> This code takes about 8 hours to execute on an i3 processor
-
-Code written by: Siddharth Agrawal
-Email ID: siddharth.950@gmail.com
